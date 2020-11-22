@@ -1,0 +1,27 @@
+.jumbotron{
+  color:cyan;
+  background-color:grey;
+}
+#green{
+  background-color:green;
+}
+#red{
+  background-color:red;
+}
+#yellow{
+  background-color:yellow;
+}
+#test{
+  background-color:pink;
+  margin-top:50px;
+  height:200px;
+  width:400px;
+  margin:auto;
+}
+#hiddenAudio{
+  background-color:white;
+  margin-top:50px;
+  height:200px;
+  width:400px;
+  margin:auto;
+}
